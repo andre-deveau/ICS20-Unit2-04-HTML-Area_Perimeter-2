@@ -18,5 +18,5 @@ function calculate() {
 
   // output
   document.getElementById("area-of-triangle").innerHTML =
-    "The Area To The Trioangle is:" + area + "!"
+    "The Area To The Triangle is:" + area + "!"
 }
